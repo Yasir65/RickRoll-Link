@@ -1,0 +1,5 @@
+Rick Roll Server Started.
+Serving On https://localhost:8000 (Container Port)
+
+To View How Many Times You Rick Rolled Go To /count
+Github: https://github.com/Yasir65/RickRoll-Link
